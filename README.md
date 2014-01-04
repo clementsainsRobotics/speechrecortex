@@ -14,7 +14,7 @@ Robotic projects of bastien Clement Soudan Sains.
 
 -various little IAs programs wrote by myself will be pulished soon
 
--An hypervisor for robotics based on KVM
+-An hypervisor for robotics oriented systems on KVM
 
 
 
